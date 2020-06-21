@@ -1,0 +1,16 @@
+iv,dv
+Placebo,3
+Placebo,2
+Placebo,1
+Placebo,1
+Placebo,4
+low,5
+low,2
+low,4
+low,2
+low,3
+high,7
+high,4
+high,5
+high,3
+high,6
